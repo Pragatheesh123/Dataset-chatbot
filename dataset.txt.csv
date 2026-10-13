@@ -1,0 +1,104 @@
+Sale_ID,Date,Product,Category,City,Salesperson,Quantity,Unit_Price,Discount_Percent,Total_Sales
+S001,01/01/2025, smartphone , Electronics ,BANGALORE,Priya  Shah, 1 ,"₹28,000",10%, 25200.0 
+S002,2025-01-04,Headphones,Electronics,Hyderabad,Sneha Rao,2,3500,0,7000.0
+S003,2025-01-07,Laptop,Electronics,Bangalore,Priya Shah,1,65000,0,65000.0
+S004,2025-01-10,Printer,Electronics,Pune,Anjali Menon,1,14500,5,13775.0
+S005,2025-01-13,Printer,Electronics,Delhi,Vikram Das,7,14500,5,96425.0
+S006,2025-01-16,Keyboard,Accessories,Pune,Sneha Rao,1,1800,5,1710.0
+S007,2025-01-19,Mouse,Accessories,Bangalore,Rahul Singh,5,900,5,4275.0
+S008,2025-01-22, smartphone ,Electronics,Chennai,Rahul Singh,2,28000,15,47600.0
+S009,2025-01-25,Mouse,Accessories,Pune,Sneha Rao,5,₹900,0,4500.0
+S010,2025-01-28,Printer,Electronics,CHENNAI,Vikram Das,2,14500,15,24650.0
+S011,31/01/2025,Keyboard,Accessories,Pune,Arun Kumar,6,1800,5,10260.0
+S012,2025-02-03,Laptop, Electronics ,Chennai,Priya Shah,4,65000,10,234000.0
+S013,2025-02-06,Smartphone,Electronics,Delhi,Anjali Menon,7,28000,10, 176400.0 
+S014,2025-02-09,Mouse,Accessories,Mumbai,Priya  Shah,3,900,10,2430.0
+S015,2025-02-12, keyboard ,Accessories,Hyderabad,Anjali Menon, 2 ,1800,5,3420.0
+S016,15-02-2025,Monitor,Electronics,Delhi,Rahul Singh,3,18000,15,45900.0
+S017,2025-02-18,Printer,Electronics,Chennai,Priya Shah,4,"₹14,500",10,52200.0
+S018,2025-02-21,Laptop,Electronics,Mumbai,Arun Kumar,6,65000,15%,331500.0
+S019,2025-02-24,Monitor,Electronics,PUNE,Sneha Rao,6,18000,5,102600.0
+S020,2025-02-27,Office Chair,Furniture,Mumbai,Priya Shah,8,8500,5,64600.0
+S021,02/03/2025,Monitor,Electronics,Hyderabad,Sneha Rao,5,18000,15,76500.0
+S022,2025-03-05, mouse ,Accessories,Hyderabad,Sneha Rao,4,900,5,3420.0
+S023,2025-03-08,Smartphone, Electronics ,Bangalore,Anjali Menon,1,28000,0,28000.0
+S024,2025-03-11,Headphones,Electronics,,Sneha Rao,7,3500,0,24500.0
+S025,2025-03-14,Tablet,Electronics,Hyderabad,Arun Kumar,8,"₹22,000",10, 158400.0 
+S026,2025-03-17,Smartphone,Electronics,Chennai,Rahul Singh,5,28000,10,126000.0
+S027,2025-03-20,Office Chair,Furniture,Chennai,Anjali  Menon,3,8500,15,21675.0
+S028,2025-03-23,Keyboard,Accessories,PUNE,Rahul Singh,3,1800,0,5400.0
+S029,2025-03-26, printer ,Electronics,Mumbai,Priya Shah, 4 ,14500,5,55100.0
+S030,2025-03-29,Printer,Electronics,Delhi,Arun Kumar,1,14500,10,13050.0
+S031,01/04/2025,Smartphone,Electronics,Bangalore,Arun Kumar,6,28000,10,151200.0
+S032,2025-04-04,Monitor,Electronics,Pune,Sneha Rao,2,18000,0,36000.0
+S033,2025-04-07,Smartphone,Electronics,Pune,Sneha Rao,3,"₹28,000",5,79800.0
+S034,2025-04-10,Printer, Electronics ,Hyderabad,Vikram Das,3,14500,10,39150.0
+S035,2025-04-13,Office Chair,Furniture,Pune,,4,8500,5%,32300.0
+S036,2025-04-16, office chair ,Furniture,Hyderabad,Sneha Rao,6,8500,15,43350.0
+S037,2025-04-19,Smartphone,Electronics,CHENNAI,Rahul Singh,4,28000,5, 106400.0 
+S038,2025-04-22,Laptop,Electronics,Chennai,Arun Kumar,4,65000,5,247000.0
+S039,2025-04-25,Laptop,Electronics,Chennai,Rahul Singh,4,65000,0,260000.0
+S040,2025-04-28,Smartphone,Electronics,Pune,Sneha  Rao,4,28000,10,100800.0
+S041,01/05/2025,Monitor,Electronics,Bangalore,Sneha Rao,3,"₹18,000",15,45900.0
+S042,2025-05-04,Office Chair,Furniture,Chennai,Anjali Menon,4,8500,0,34000.0
+S043,2025-05-07, office chair ,Furniture,Delhi,Sneha Rao, 6 ,8500,15,43350.0
+S044,2025-05-10,Laptop,Electronics,Delhi,Anjali Menon,2,65000,0,130000.0
+S045,2025-05-13,Mouse, Accessories ,Bangalore,Priya Shah,2,900,5,1710.0
+S046,16-05-2025,Printer,Electronics,DELHI,Priya Shah,8,14500,5,110200.0
+S047,2025-05-19,Keyboard,Accessories,Chennai,Sneha Rao,8,1800,5,13680.0
+S048,2025-05-22,Printer,Electronics,Pune,Vikram Das,2,14500,0,29000.0
+S049,2025-05-25,Laptop,Electronics,Bangalore,Sneha Rao,2,"₹65,000",5, 123500.0 
+S050,2025-05-28, desk ,Furniture,Delhi,Arun Kumar,8,12000,5,91200.0
+S051,31/05/2025,Headphones,Electronics,Delhi,Rahul Singh,7,3500,0,24500.0
+S052,2025-06-03,Desk,Furniture,Pune,Anjali Menon,5,12000,15%,51000.0
+S053,2025-06-06,Printer,Electronics,Bangalore,Rahul  Singh,8,14500,5,110200.0
+S054,2025-06-09,Monitor,Electronics,Pune,Rahul Singh,1,18000,0,18000.0
+S055,2025-06-12,Laptop,Electronics,HYDERABAD,Vikram Das,1,65000,15,55250.0
+S056,2025-06-15,Headphones, Electronics ,Bangalore,Arun Kumar,1,3500,0,3500.0
+S057,2025-06-18, tablet ,Electronics,Delhi,Arun Kumar, 2 ,"₹22,000",5,41800.0
+S058,2025-06-21,Tablet,Electronics,,Arun Kumar,4,22000,0,88000.0
+S059,2025-06-24,Office Chair,Furniture,Bangalore,Anjali Menon,6,8500,10,45900.0
+S060,2025-06-27,Mouse,Accessories,Delhi,Priya Shah,4,900,10,3240.0
+S061,30/06/2025,Keyboard,Accessories,Chennai,Arun Kumar,8,1800,10, 12960.0 
+S062,2025-07-03,Desk,Furniture,Hyderabad,Priya Shah,2,12000,0,24000.0
+S063,2025-07-06,Printer,Electronics,Mumbai,Arun Kumar,5,14500,5,68875.0
+S064,2025-07-09, monitor ,Electronics,BANGALORE,Sneha Rao,6,18000,10,97200.0
+S065,2025-07-12,Printer,Electronics,Pune,Vikram Das,5,"₹14,500",0,72500.0
+S066,2025-07-15,Keyboard,Accessories,Mumbai,Arun  Kumar,2,1800,5,3420.0
+S067,2025-07-18,Smartphone, Electronics ,Mumbai,Vikram Das,3,28000,10,75600.0
+S068,2025-07-21,Monitor,Electronics,Pune,Anjali Menon,6,18000,5,102600.0
+S069,2025-07-24,Keyboard,Accessories,Chennai,Arun Kumar,8,1800,10%,12960.0
+S070,2025-07-27,Office Chair,Furniture,Chennai,Rahul Singh,5,8500,0,42500.0
+S071,30/07/2025, headphones ,Electronics,Pune,Sneha Rao, 5 ,3500,5,16625.0
+S072,2025-08-02,Printer,Electronics,Chennai,Arun Kumar,7,14500,0,101500.0
+S073,2025-08-05,Headphones,Electronics,HYDERABAD,Vikram Das,1,"₹3,500",10, 3150.0 
+S074,2025-08-08,Headphones,Electronics,Chennai,Rahul Singh,7,3500,5,23275.0
+S075,2025-08-11,Mouse,Accessories,Bangalore,Anjali Menon,1,900,10,810.0
+S076,14-08-2025,Monitor,Electronics,Hyderabad,Sneha Rao,2,18000,10,32400.0
+S077,2025-08-17,Tablet,Electronics,Bangalore,Priya Shah,3,22000,5,62700.0
+S078,2025-08-20, office chair , Furniture ,Pune,Rahul Singh,1,8500,5,8075.0
+S079,2025-08-23,Office Chair,Furniture,Bangalore,Anjali  Menon,4,8500,10,30600.0
+S080,2025-08-26,Smartphone,Electronics,Delhi,Priya Shah,7,28000,0,196000.0
+S081,29/08/2025,Monitor,Electronics,Mumbai,Priya Shah,8,"₹18,000",10,129600.0
+S082,2025-09-01,Monitor,Electronics,DELHI,,1,18000,5,17100.0
+S083,2025-09-04,Keyboard,Accessories,Mumbai,Anjali Menon,2,1800,10,3240.0
+S084,2025-09-07,Printer,Electronics,Chennai,Arun Kumar,7,14500,10,91350.0
+S085,2025-09-10, keyboard ,Accessories,Chennai,Arun Kumar, 3 ,1800,10, 4860.0 
+S086,2025-09-13,Tablet,Electronics,Pune,Rahul Singh,7,22000,10%,138600.0
+S087,2025-09-16,Office Chair,Furniture,Hyderabad,Priya Shah,2,8500,15,14450.0
+S088,2025-09-19,Keyboard,Accessories,Chennai,Vikram Das,1,1800,15,1530.0
+S089,2025-09-22,Printer, Electronics ,Delhi,Arun Kumar,4,"₹14,500",10,52200.0
+S090,2025-09-25,Mouse,Accessories,Pune,Rahul Singh,6,900,0,5400.0
+S091,28/09/2025,Printer,Electronics,MUMBAI,Sneha Rao,5,14500,15,61625.0
+S092,2025-10-01, keyboard ,Accessories,Delhi,Anjali  Menon,3,1800,5,5130.0
+S093,2025-10-04,Office Chair,Furniture,Delhi,Vikram Das,3,8500,10,22950.0
+S094,2025-10-07,Laptop,Electronics,Bangalore,Sneha Rao,5,65000,10,292500.0
+S095,2025-10-10,Tablet,Electronics,Delhi,Sneha Rao,6,22000,15,112200.0
+S096,2025-10-13,Monitor,Electronics,Pune,Arun Kumar,8,18000,5,136800.0
+S097,2025-10-16,Keyboard,Accessories,Bangalore,Anjali Menon,6,"₹1,800",0, 10800.0 
+S098,2025-10-19,Keyboard,Accessories,Bangalore,Arun Kumar,4,1800,5,6840.0
+S099,2025-10-22, laptop ,Electronics,Hyderabad,Arun Kumar, 4 ,65000,15,221000.0
+S100,2025-10-25,Desk, Furniture ,PUNE,Anjali Menon,7,12000,5,79800.0
+S008,2025-01-22, smartphone ,Electronics,Chennai,Rahul Singh,2,28000,15,47600.0
+S032,2025-04-04,Monitor,Electronics,Pune,Sneha Rao,2,18000,0,36000.0
+S073,2025-08-05,Headphones,Electronics,HYDERABAD,Vikram Das,1,"₹3,500",10, 3150.0 

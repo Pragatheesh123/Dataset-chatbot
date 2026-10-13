@@ -36,6 +36,10 @@ python dataset_testing.py
 
 Type a question when prompted. Type `exit` to close the chatbot.
 
+## Examples
+
+See [examples/README.md](./examples/README.md) for sample questions, pandas analyses, and answers.
+
 ## Note
 
 The chatbot uses AI-generated pandas code to calculate answers. Run it only with data and questions you trust.

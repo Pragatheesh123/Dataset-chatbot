@@ -38,7 +38,7 @@ Type a question when prompted. Type `exit` to close the chatbot.
 
 ## Examples
 
-See [examples/README.md](./examples/README.md) for sample questions, pandas analyses, and answers.
+See [examples.md](./examples.md) for sample questions, pandas analyses, and answers.
 
 ## Note
 
